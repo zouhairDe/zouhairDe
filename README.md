@@ -1,0 +1,4 @@
+- 👋 Hi,ICH-BIN-ZOUHAIR
+- 👀 I’m interested in WEB DEVELOPMENT 
+- 🌱 I’m currently learning FrontEnd Development and trying to learn BackEnd in the futur... 
+- 📫 How to reach me (+212604359292/WhatsApp) or (zouhairouddach11@gmail.com) or (ZOUHAIR OUDDACH/Linkden) 
