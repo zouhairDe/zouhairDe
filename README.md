@@ -1,5 +1,4 @@
 ![MasterHead](https://camo.githubusercontent.com/d4902b57b5e2549993dfc819375943915f4a4bd1c2b3718f894547e1910c3e2e/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f62616e6e65722d62672e676966)
-
 <h1 align="center">Hi 👋, I'm ZOUHAIR OUDDACH</h1>
 <h3 align="center">A passionate frontend developer from MOROCCO</h3>
 
@@ -9,11 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/zouhairoudd" target="blank"><img src="https://img.shields.io/twitter/follow/zouhairoudd?logo=twitter&style=for-the-badge" alt="zouhairoudd" /></a> </p>
 
-- 🔭 I’m currently working on **an Hospital Website**
+- 🔭 I’m currently working on **an E-Commerce Website**
 
-- 🌱 I’m currently learning **ReactJs, ViteJs and TypeScript**
+- 🌱 I’m currently learning **ReactJs, NodeJs for Backend**
 
-- 🤝 I’m looking for help with **Three.js and Backend**
+- 👯 I’m looking for **Ausbildung Fachinformatiker für Anwendungsentwicklung**
+
+- 🤝 I’m looking for help with **Backend**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ICH-BIN-ZOUHAIR?tab=repositories](https://github.com/ICH-BIN-ZOUHAIR?tab=repositories)
 
