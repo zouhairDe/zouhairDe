@@ -19,7 +19,7 @@
 <div display="flex" justify-content="center" align="center">
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ramon-rodrigues-001&theme=monokai&no-frame=true&no-bg=true&margin-w=4&column=6&row=1)
+![](https://github-profile-trophy.vercel.app/?username=zouhairDe&theme=monokai&no-frame=true&no-bg=true&margin-w=4&column=6&row=1)
 </div>
 
 <div display="flex" justify-content="center" align="center">
