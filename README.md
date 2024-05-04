@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm ZOUHAIR OUDDACH</h1>
 <h3 align="center">A passionate frontend developer from MOROCCO</h3>
 # 💫 About Me:
-🔭 I’m currently a student in 1337 Futur is Loading<br><br>🌱 I’m currently learning NextJs, NodeJs for Backend<br><br>👯 I’m looking for an IT-WEB Development training in GERMANY<br><br>🤝 I’m looking for help with BACKEND<br><br>👨‍💻 All of my projects are available at My repositories page or Portfolio<br><br><br>📫 How to reach me zogamaouddach@gmail.com<br>
+🔭 I’m currently a student in 1337 Cooding school | 42 NETWORK<br><br>🌱 I’m currently learning NextJs, NodeJs for Backend<br><br>👯 I’m looking for an IT-WEB Development training in GERMANY<br><br>🤝 I’m looking for help with BACKEND<br><br>👨‍💻 All of my projects are available at My repositories page or Portfolio<br><br><br>📫 How to reach me zogamaouddach@gmail.com<br>
 
 
 ## 🌐 Socials:
