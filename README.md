@@ -1,8 +1,8 @@
-![MasterHead](https://camo.githubusercontent.com/0493a4742c3429766be402cdfb8e4a976fba18e6368c7920b9aa83ff777371d6/68747470733a2f2f7777772e736576656e73746172776562736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f7468656d65732f736576656e737461722f696d672f62616e6e65722d62672e676966)
+
 <h1 align="center">Hi 👋, I'm ZOUHAIR OUDDACH</h1>
 <h3 align="center">A passionate frontend developer from MOROCCO</h3>
  💫 About Me:
-🔭 I’m currently a student in 1337 Cooding school | 42 NETWORK<br><br>🌱 I’m currently learning NextJs, NodeJs for Backend<br><br>👯 I’m looking for an IT-WEB Development training in GERMANY<br><br>🤝 I’m looking for help with BACKEND<br><br>👨‍💻 All of my projects are available at My repositories page or Portfolio<br><br><br>📫 How to reach me zogamaouddach@gmail.com<br>
+🔭 I’m currently a student in 1337 Cooding school | 42 NETWORK<br><br>🌱 I’m currently learning NextJs, NodeJs for Backend<br><br>👨‍💻 All of my projects are available at My repositories page or Portfolio<br><br><br>📫 How to reach me zogamaouddach@gmail.com<br>
 
 
 ## 🌐 Socials:
@@ -29,11 +29,4 @@
 
 </div>
 
-
----
-
-
 [![](https://visitcount.itsvg.in/api?id=zouhairDe&icon=2&color=1)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/zogamaoudd) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/zogamayt) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/zogamaoudd) 
