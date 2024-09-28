@@ -49,8 +49,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 [![](https://visitcount.itsvg.in/api?id=zouhairDe&icon=2&color=1)](https://visitcount.itsvg.in)
-
-![snake gif](https://github.com/zouhairDe/zouhairDe/blob/output/github-contribution-grid-snake.svg)
-
 </div>
 
