@@ -1,11 +1,8 @@
 <h1 align="center">Hi, I'm ZOUHAIR OUDDACH</h1>
-<h3 align="center">A Passionate Computer Architect from Morocco</h3>
 
 <div align="center">
   <h3 align="left">
     Student at 1337 Coding School | 42 NETWORK<br><br>
-    Currently learning Haskell / Honing my skills in JS/TS<br><br>
-    All of my projects are available on my repositories page or portfolio<br><br>
     Reach me at: zogamaouddach@gmail.com<br>
   </h3>
 </div>
