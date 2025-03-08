@@ -7,9 +7,6 @@
   </h3>
 </div>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zouhair-ouddach?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-
 # 💻 Tech Stack:
 <h3 align="center">Fields of Knowledge and Technologies I Have Been Using So Far:</h3>
 <div align="center">
