@@ -7,7 +7,6 @@
   </h3>
 </div>
 
-# 💻 Tech Stack:
 <h3 align="center">Fields of Knowledge and Technologies I Have Been Using So Far:</h3>
 <div align="center">
 
