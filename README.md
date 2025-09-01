@@ -28,18 +28,3 @@
   <img width="35%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zouhairDe&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/>
 </div><br>
 
-<div align="center">
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=zouhairDe&theme=monokai&no-frame=true&no-bg=true&margin-w=4&column=6&row=1)
-
-</div>
-
-<div align="center">
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-[![](https://visitcount.itsvg.in/api?id=zouhairDe&icon=2&color=1)](https://visitcount.itsvg.in)
-</div>
-
