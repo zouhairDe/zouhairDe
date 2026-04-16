@@ -2,7 +2,7 @@
 
 <div align="center">
   <h3 align="left">
-    Software Engineer & AI Student at 1337 Coding School | 42 NETWORK<br><br>
+    Software Engineer & AI Student at 42 Paris<br><br>
     Reach me at: zogamaouddach@gmail.com<br>
   </h3>
 </div>
